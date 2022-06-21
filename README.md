@@ -1,7 +1,5 @@
-- # Sobre mim
+ # Sobre mim
 - 👋 Olá meu nome é @ViniciusLaitner
-- 👀 I’m interested in  aprender a programar novas linguagens.
--
-- 🌱 I’m currently learni
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👍 Meu e-mail de contato é viniciuslaitner@gmail.com
+- 👀 Eu estou interessado em aprender a programar novas linguagens.
+- 🌱 Eu estou aprendendo a programar recentemente a linguaagem de JvaScript e Scratch
