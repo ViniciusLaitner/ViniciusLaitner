@@ -1,5 +1,5 @@
 - # Sobre mim
-- 👋 Hi, I’m @ViniciusLaitner
+- 👋 Olá meu nome é @ViniciusLaitner
 - 👀 I’m interested in ...
 - 🌱 I’m currently learni
 - 💞️ I’m looking to collaborate on ...
